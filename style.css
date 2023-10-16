@@ -29,11 +29,11 @@ main {
   translate: -50% -50%;
 
   @media (width > 375px) {
-    max-width: 40vw;
+    max-width: 30vw;
   }
 
   @media (width > 700px) {
-    max-width: 25vw;
+    max-width: 15vw;
   }
 
   & img {
