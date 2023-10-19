@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,13 +14,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![](./design/screenshot.png)
-
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-and-modern-css-MtBVBvKEbv)
 
 - Live Site URL: [GiHub Pages](https://retchohrips.github.io/qr-code-component/)
 
